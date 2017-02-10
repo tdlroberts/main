@@ -2,7 +2,7 @@
 
 This is a site to keep track of my projects. Feel free to check it out whenever you like.
 
-### [Appium-workshop](https://github.com/tdlroberts/appium-workshop)
+### Appium workshop [link](https://github.com/tdlroberts/appium-workshop)
 
 Learning how to use appium.
 
