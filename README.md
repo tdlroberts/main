@@ -1,13 +1,10 @@
 ## Robs current projects
 
-You can use the [editor on GitHub](https://github.com/tdlroberts/main/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a site to keep track on my projects. Feel free to check it out whenever you like.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-### Header test
 
 ```markdown
 Syntax highlighted code block
