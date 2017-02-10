@@ -1,10 +1,10 @@
-## Robs current projects
+## My current projects
 
-This is a site to keep track on my projects. Feel free to check it out whenever you like.
+This is a site to keep track of my projects. Feel free to check it out whenever you like.
 
-### Markdown
+### [Appium-workshop](https://github.com/tdlroberts/appium-workshop)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Learning how to use appium.
 
 ```markdown
 Syntax highlighted code block
