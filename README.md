@@ -1,6 +1,6 @@
 ## Appium workshop [link](https://github.com/tdlroberts/appium-workshop)
 
-Learning how to use appium.
+Learning how to use ruby, cucumber and selenium.
 
 ```markdown
 Syntax highlighted code block
